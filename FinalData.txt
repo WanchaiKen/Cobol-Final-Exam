@@ -1,0 +1,21 @@
+15Evergreen   103June E. Arbough       Elect. Engineer      08550238
+15Evergreen   101John G. News          Database Designer    10500194
+15Evergreen   105Alice K. Johnson      Database Designer    10500357
+15Evergreen   106William Smithfield    Programmer           03575126
+15Evergreen   102David H. Senior       Systems Analyst      09675238
+18AmberWave   114Annelise Jones        Applications Designer04810256
+18AmberWave   118James J. Frommer      General Support      01836453
+18AmberWave   104Anne K. Ramoras *     Systems Analyst      09675324
+18AmberWave   112Darlene M. Smithson   DSS Analyst          04595450
+22RollingTide 105Alice K. Johnson      Database Designer    10500657
+22RollingTide 104Anne K. Ramoras       Systems Analyst      09675484
+22RollingTide 113Delbert K. Joenbrood *Applications Designer04810236
+22RollingTide 111Geoff B. Wabash       Clerical Support     02687220
+22RollingTide 106William Smithfield    Programmer           03575128
+25Starflight  107Maria D. Alonzo       Programmer           03575256
+25Starflight  115Travis B. Bawangi     Systems Analyst      09675458
+25Starflight  101John G. News *        Database Designer    10500563
+25Starflight  114Annelise Jones        Applications Designer04810331
+25Starflight  108Ralph B. Washington   Systems Analyst      09675236
+25Starflight  118James J. Frommer      General Support      01836305
+25Starflight  112Darlene M. Smithson   DSS Analyst          04595414

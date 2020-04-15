@@ -1,0 +1,32 @@
+
+
+ PROJ.   PROJECT     EMPLOYEE  EMPLOYEE              JOB                     CHG/        HOURS    TOTAL
+ NUM.    NAME.       NUM.      NAME                  CLASS                   HOUR        BILLED   CHARGE
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+ 15    Evergreen     103       June E. Arbough       Elect. Engineer         $ 85.50     23.8     $ 2,034.90
+                     101       John G. News          Database Designer       $105.00     19.4     $ 2,037.00
+                     105       Alice K. Johnson      Database Designer       $105.00     35.7     $ 3,748.50
+                     106       William Smithfield    Programmer              $ 35.75     12.6     $   450.45
+                     102       David H. Senior       Systems Analyst         $ 96.75     23.8     $ 2,302.65
+                                                                              - - Subtotal - -    $10,573.50
+ 18    AmberWave     114       Annelise Jones        Applications Designer   $ 48.10     25.6     $ 1,231.36
+                     118       James J. Frommer      General Support         $ 18.36     45.3     $   831.70
+                     104       Anne K. Ramoras *     Systems Analyst         $ 96.75     32.4     $ 3,134.70
+                     112       Darlene M. Smithson   DSS Analyst             $ 45.95     45.0     $ 2,067.75
+                                                                              - - Subtotal - -    $ 7,265.51
+ 22    RollingTid    105       Alice K. Johnson      Database Designer       $105.00     65.7     $ 6,898.50
+                     104       Anne K. Ramoras       Systems Analyst         $ 96.75     48.4     $ 4,682.70
+                     113       Delbert K. Joenbrood *Applications Designer   $ 48.10     23.6     $ 1,135.16
+                     111       Geoff B. Wabash       Clerical Support        $ 26.87     22.0     $   591.14
+                     106       William Smithfield    Programmer              $ 35.75     12.8     $   457.60
+                                                                              - - Subtotal - -    $13,765.10
+ 25    Starflight    107       Maria D. Alonzo       Programmer              $ 35.75     25.6     $   915.20
+                     115       Travis B. Bawangi     Systems Analyst         $ 96.75     45.8     $ 4,431.15
+                     101       John G. News *        Database Designer       $105.00     56.3     $ 5,911.50
+                     114       Annelise Jones        Applications Designer   $ 48.10     33.1     $ 1,592.11
+                     108       Ralph B. Washington   Systems Analyst         $ 96.75     23.6     $ 2,283.30
+                     118       James J. Frommer      General Support         $ 18.36     30.5     $   559.98
+                     112       Darlene M. Smithson   DSS Analyst             $ 45.95     41.4     $ 1,902.33
+                                                                              - - Subtotal - -    $17,595.57
+                                                                                    Total         $49,199.68
+- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
