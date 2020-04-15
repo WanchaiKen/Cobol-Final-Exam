@@ -34,6 +34,7 @@
           05 RESULT-CHG-HURS PIC 99999V99.
           05 TOTAL-CHG-HUS-PROJ PIC 99999V99.
           05 TOTAL-CHG-HUS-ALL PIC 99999V99.
+          05 END-mes PIC X(30) VALUE 'Note:*indicates project leader'.
        01 CLOSE-1.
            05 PIC X(40) VALUE '- - - - - - - - - - - - - - - - - - - -'.
            05 PIC X(40) VALUE '- - - - - - - - - - - - - - - - - - - -'.
@@ -137,6 +138,10 @@
                  PERFORM PRINT-FOOT-1.
                  WRITE OUTPUT-REC-OUT FROM CLOSE-1
                       AFTER ADVANCING 1 LINE
+                 MOVE END-mes TO OUTPUT-REC-OUT
+                 WRITE OUTPUT-REC-OUT
+                       AFTER ADVANCING 1 LINES
+
 
             CLOSE DATA-IN
                   OUTPUT-OUT
